@@ -1,0 +1,7 @@
+C:\Users\dylan\source\repos\CompareAreaOfRectangles\CompareAreaOfRectangles\bin\Debug\CompareAreaOfRectangles.exe.config
+C:\Users\dylan\source\repos\CompareAreaOfRectangles\CompareAreaOfRectangles\bin\Debug\CompareAreaOfRectangles.exe
+C:\Users\dylan\source\repos\CompareAreaOfRectangles\CompareAreaOfRectangles\bin\Debug\CompareAreaOfRectangles.pdb
+C:\Users\dylan\source\repos\CompareAreaOfRectangles\CompareAreaOfRectangles\obj\Debug\CompareAreaOfRectangles.csprojAssemblyReference.cache
+C:\Users\dylan\source\repos\CompareAreaOfRectangles\CompareAreaOfRectangles\obj\Debug\CompareAreaOfRectangles.csproj.CoreCompileInputs.cache
+C:\Users\dylan\source\repos\CompareAreaOfRectangles\CompareAreaOfRectangles\obj\Debug\CompareAreaOfRectangles.exe
+C:\Users\dylan\source\repos\CompareAreaOfRectangles\CompareAreaOfRectangles\obj\Debug\CompareAreaOfRectangles.pdb
